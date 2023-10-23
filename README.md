@@ -6,7 +6,7 @@
 ---
 ## Project Link:
 
-- :link: [![Git Bage](https://img.shields.io/badge/-APIImageGallery-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/API_Image-Gallery/)
+- :link: [![Git Bage](https://img.shields.io/badge/-APIImageGallery-green?style=plastic&logo=googlechrome&logoColor=red)]([https://uahig.github.io/API_Image-Gallery/](https://uahig.github.io/API_Image-Gallery/))
 
 ---
   
